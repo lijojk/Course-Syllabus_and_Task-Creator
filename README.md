@@ -3,7 +3,7 @@
 <h3>Features:</h3>
 <ul>
   <li>Option to add day wise syllabus and task of different courses.</li>
-  <li>Option to Export the syllabus and task of each course.</li>
+  <li>Option to Import and Export the syllabus and task of each course.</li>
 </ul>
 <h3>Technologies used:</h3>
 <ul>
